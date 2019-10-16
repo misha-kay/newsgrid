@@ -10,4 +10,4 @@ This was the third project in the Web Development Udemy course I was studying. T
 **[Website can be viewed here](https://newsgrid.mk-creativedesign.com/)**
 
 **DISCLAIMER:**
-Please note that I created this app by following step-by-step instructions from the instructor.
+Please note that I created this site by following step-by-step instructions from the instructor.
